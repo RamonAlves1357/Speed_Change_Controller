@@ -17,7 +17,7 @@
 - ou faça o Download Zip:
 <img src="https://github.com/RamonAlves1357/Speed_Change_Controller/blob/master/img/download.jpg"/>
 
-<p> Caso ultilize essa opção lembre-se de estrair os aquivos e salvar em um local que voçe lembre.</p>
+<p> Caso ultilize essa opção lembre-se de estrair os aquivos e salvar em um local que você lembre.</p>
     
 ### 2. Navegue até "chrome://extensions/" 
 <img src="https://github.com/RamonAlves1357/Speed_Change_Controller/blob/master/img/link.jpg"/>
